@@ -8,7 +8,7 @@
 
 https://github.com/juliosn/avenueTrafficLight/assets/99426563/1d35695d-33c4-42c7-b2ec-c567c14b1e1f
 
-> Projeto acadêmico realizdo em 2022 que consiste na simulação do funcionamento de um semáforo.
+> Projeto acadêmico realizdo em 2022 que consiste na simulação do funcionamento de um semáforo em uma avenida.
 
 
 
