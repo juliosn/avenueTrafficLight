@@ -1,4 +1,4 @@
-# Simulação de um Semáforo
+# Simulation of a Traffic Light
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/juliosn/avenueTrafficLight?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/juliosn/avenueTrafficLight?style=for-the-badge)
@@ -8,7 +8,7 @@
 
 https://github.com/juliosn/avenueTrafficLight/assets/99426563/1d35695d-33c4-42c7-b2ec-c567c14b1e1f
 
-> Projeto acadêmico realizdo em 2022 que consiste na simulação do funcionamento de um semáforo em uma avenida.
+> Academic project carried out in 2022 that consists of simulating the traffic light's operation on an avenue.
 
 
 
